@@ -7,7 +7,7 @@
 
 const result = document.querySelector(".result-container");
 let resultArray = [];
-const key = "k_x3bnm044";
+const key = "k_fjhrmyxv";
 let title = "";
 
 // input #searchmovies to be sent as a search reference. 
